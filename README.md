@@ -1,7 +1,7 @@
 ### Hi there 👋
 # Gagandeep Singh
 
-📞 Phone: 123.456.7890  
+📞 Phone: 4378763131  
 📍 Location: Toronto, CA  
 📧 Email: jaguargagan@gmail.com  
 🌐 Portfolio: [Visit Portfolio](https://strong-blancmange-d9a246.netlify.app/)
