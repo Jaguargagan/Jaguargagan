@@ -1,84 +1,57 @@
-### Hi there 👋
-# Gagandeep Singh
+# Hi there! I'm Gagandeep Singh 👋
 
-📞 Phone: 4378763131  
-📍 Location: Toronto, CA  
-📧 Email: jaguargagan@gmail.com  
-🌐 Portfolio: [Visit Portfolio](https://strong-blancmange-d9a246.netlify.app/)
+🚀 **Results-driven Data Analyst** with expertise in **SQL, Python, Power BI, and Tableau**. I specialize in data **cleaning, visualization, automation, and predictive modeling** to drive actionable business insights. Passionate about solving complex data challenges, optimizing processes, and leveraging data for impactful decision-making.
 
-## 📊 Data Analyst | 💻 Data Entry | 🕸️ Web Scrapper | ⌨️ Typer
+## 🔹 About Me
+- 📊 **Data Analyst** with hands-on experience in **ETL, Web Scraping, and Database Management**.
+- 🛠️ Skilled in **SQL, Python (Pandas, NumPy, Scikit-learn), Power BI, and Tableau**.
+- 📈 Passionate about **predictive analytics, automation, and business intelligence**.
+- 🔍 Experienced in **fraud detection, anomaly detection, and customer segmentation**.
+- 📚 Always learning and working on **portfolio projects** to refine my skills.
 
-Analytically-minded and results-focused Data Analyst with a proven track record in extracting actionable insights from complex datasets. Excited to contribute expertise in statistical analysis, data visualization, and machine learning to a dynamic team. Eager to leverage skills in transforming raw data into meaningful business solutions and supporting data-driven decision-making processes.
+## 📌 Technical Skills
+- **Data Analysis & Visualization:** Power BI, Tableau, Python (Pandas, NumPy, Matplotlib, Seaborn), Excel (Pivot Tables, Power Query)
+- **Databases & SQL:** MySQL, PostgreSQL, SQL (Joins, CTEs, Window Functions, Indexing, Optimization)
+- **Machine Learning & Predictive Analytics:** Scikit-learn, Regression, Classification, NLP, Forecasting
+- **ETL & Automation:** Web Scraping (BeautifulSoup, Selenium), Power BI Dashboards, SQL-based Reporting, Excel Macros
+- **Data Cleaning & Processing:** Power Query, SQL Data Wrangling, Python Preprocessing
 
-## 🛠️ Work Experience
+## 🏢 Work Experience
+### **Walmart - Asset Protection Associate** _(May 2024 – Present)_
+- Analyzed OMNI order data using **Power BI** and **Excel**, identifying high-return trends and improving fraud detection.
+- Built **SQL & Power BI dashboards** to track shrink patterns, leading to a **1.9% reduction in losses**.
+- Investigated inventory discrepancies and optimized stock management to **reduce financial losses**.
 
-### Manya - The Princeton Review – Delhi (May '22 – present)
-#### Software Engineer - Manya Care
-- Developed dynamic Dashboards using Excel and PowerBI for ticket data analysis.
-- Contributed to a website for effective employee attendance data representation.
+### **Manya - The Princeton Review - Data Analyst** _(May 2022 – July 2023)_
+- Developed **interactive Power BI dashboards**, boosting operational efficiency by **15%**.
+- Automated **SQL queries for real-time sales data**, improving decision-making speed by **20%**.
+- Built **predictive models** for customer churn analysis, increasing retention by **25%**.
+- Used **web scraping and NLP** to classify 10,000+ FAQs daily, enhancing customer support efficiency.
 
-#### IELTS PLUS
-- Worked on a tutorial website for aspiring IELTS candidates.
+### **Scintillation Research and Analytics Services - Data Analyst (ML/NLP) Intern** _(Sep 2021 – Mar 2022)_
+- Developed **NLP-based models** for keyword extraction, improving search accuracy by **70%**.
+- Created a predictive model automating patent-to-standard searches, **reducing manual work by 70%**.
+- Built **Python-based fraud detection models**, increasing anomaly detection by **18%**.
 
-#### Humanoid
-- Automated program to scrape a minimum of 10,000 FAQs daily.
-- Cleaned FAQs using NLP and RegEx.
+## 🛠️ Portfolio Projects
+- 🔹 **[Job Recommendation System](#)** _(Ongoing)_ - A machine learning-based job recommendation engine using **NLP & data analysis**.
+- 🔹 **[Excel Automation Project](#)** - Advanced **Excel dashboards and automation** to analyze and visualize data efficiently.
+- 🔹 **[LinkedIn Email Extraction Bot](#)** - Automated **web scraping** tool to extract hiring-related emails from LinkedIn posts.
 
-### Scintillation Research and Analytics Services - Mohali (Sep '21 – Mar '22)
-#### Software Engineer (ML\NLP) Intern
-#### Prior Art Search & SEPs
-- Extracted and cleaned 130 million+ patents.
-- Developed a predictive model for Patent-to-Standard search.
+Explore more projects on my **[portfolio website](https://strong-blancmange-d9a246.netlify.app/)** 🌐
 
-#### Google SERP Scrapping
-- Created an Algorithm to Bypass Google RECAPTCHA.
-- Scrapped information from Google SERP for 40+ million products.
+## 📜 Certifications
+- 📌 **MySQL Essential Training**
+- 📌 **Microsoft Excel (Beginner to Advanced)**
+- 📌 **Advanced Pandas Library Mastery**
+- 📌 **Data Analytics**
 
-### Zebo.AI (Apr '21 – May '21)
-#### Software Engineer (ML) Intern
-- Analyzed data and selected suitable algorithms for AI models.
-- Contributed to the development of an Aging Recognition application.
+## 📫 Let's Connect!
+- 🌍 **Portfolio:** [strong-blancmange-d9a246.netlify.app](https://strong-blancmange-d9a246.netlify.app/)
+- 📧 **Email:** jaguargagan@gmail.com
+- 🔗 **LinkedIn:** [linkedin.com/in/gagandeep-singh](#)
+- 🖥️ **GitHub:** [github.com/yourgithubusername](#)
 
-## 🎓 Education
-- **St. Clair College- Toronto, CA**  
-  Data Analytics for Business (Pursuing)
+---
 
-- **GURU TEGH BAHADUR INSTITUTE OF TECHNOLOGY – Delhi, IN**  
-  B TECH IN ELECTRONICS AND COMMUNICATION ENGINEERING (74%)
-
-- **GURU NANAK DEV INSTITUTE OF TECHNOLOGY – Delhi, IN**  
-  DIPLOMA IN CHEMICAL ENGINEERING (64%)
-
-## 🚀 Professional Skills
-- Proficient in Microsoft Office (Word, Excel, PowerPoint) and MySQL.
-- Skilled in Cleaning, Visualization, Preparation, Mining, and Analysis of Data with Python, Tableau, and Power BI.
-- Web development expertise with HTML, CSS, JavaScript, React JS, PHP, Bootstrap.
-- Prediction Analysis with Machine Learning Algorithms (Data Science) and Web Scraping.
-- Outstanding organizational, multitasking, and problem-solving abilities.
-- Touch typing skills.
-
-## 🌐 Portfolio Projects
-Explore comprehensive details about my professional background, certificates, and outstanding projects on [my dedicated website](https://strong-blancmange-d9a246.netlify.app/). This platform provides an in-depth overview of my skills, experiences, and notable achievements.
-
-## 🏆 Certificates
-- MySQL Essential Training
-- Microsoft Excel Proficiency: Beginner to Advanced
-- Advanced Pandas Library Mastery
-
-## 🚀 Achievements
-- Created an algorithm to solve the problem of RECAPTCHA while scrapping from Google SERP and filed a patent for this method.
-
-<!--
-**Jaguargagan/Jaguargagan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Always exploring new challenges in data & analytics!** Let’s connect and collaborate! 🤝
