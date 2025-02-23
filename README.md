@@ -33,11 +33,6 @@
 - Created a predictive model automating patent-to-standard searches, **reducing manual work by 70%**.
 - Built **Python-based fraud detection models**, increasing anomaly detection by **18%**.
 
-## 🛠️ Portfolio Projects
-- 🔹 **[Job Recommendation System](#)** _(Ongoing)_ - A machine learning-based job recommendation engine using **NLP & data analysis**.
-- 🔹 **[Excel Automation Project](#)** - Advanced **Excel dashboards and automation** to analyze and visualize data efficiently.
-- 🔹 **[LinkedIn Email Extraction Bot](#)** - Automated **web scraping** tool to extract hiring-related emails from LinkedIn posts.
-
 Explore more projects on my **[portfolio website](https://strong-blancmange-d9a246.netlify.app/)** 🌐
 
 ## 📜 Certifications
