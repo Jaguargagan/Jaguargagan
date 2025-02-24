@@ -44,7 +44,7 @@ Explore more projects on my **[portfolio website](https://strong-blancmange-d9a2
 ## 📫 Let's Connect!
 - 🌍 **Portfolio:** [strong-blancmange-d9a246.netlify.app](https://strong-blancmange-d9a246.netlify.app/)
 - 📧 **Email:** jaguargagan@gmail.com
-- 🔗 **LinkedIn:** [linkedin.com/in/gagandeep-singh](#)
+- 🔗 **LinkedIn:** [linkedin.com/in/gagandeep-singh](https://www.linkedin.com/in/gagandeep1313/)](#)
 - 🖥️ **GitHub:** [github.com/yourgithubusername](#)
 
 ---
